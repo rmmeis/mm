@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-int main(void) {
+int main()
+{
 	int year;
 	printf("%d",year);
 	scanf("%d",&year);
